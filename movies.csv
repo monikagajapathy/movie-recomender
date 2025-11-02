@@ -1,0 +1,36 @@
+movieId,title,genres,language,image
+1,Toy Story,Animation Adventure Comedy,English,"toy_story.jpeg"
+2,3 Idiots,Drama Comedy,Hindi,"3_idiots.jpeg"
+3,Parasite,Thriller Mystery Drama,Korean,"prasite.jpeg"
+4,Baahubali,Action Adventure Drama,Telugu,"bahubali.jpeg"
+5,Money Heist,Crime Thriller Action,Spanish
+6,KGF,Action Drama,Kannada
+7,Avengers: Endgame,Action Sci-Fi Adventure,English
+8,Your Name,Romance Drama Fantasy,Japanese
+9,Soorarai Pottru,Drama Biography,Tamil
+10,Master,Action Thriller,Tamil
+11,Vikram,Action Crime Thriller,Tamil
+12,96,Romance Drama,Tamil
+13,Jai Bhim,Drama Crime,Tamil
+14,Thunivu,Action Thriller,Tamil
+15,Varisu,Drama Family,Tamil
+16,Leo,Action Thriller,Tamil
+17,Ponniyin Selvan: I,Historical Drama,Tamil
+18,Don,Comedy Drama,Tamil
+19,Beast,Action Comedy,Tamil
+20,Love Today,Romance Comedy,Tamil
+21,Kaithi,Action Thriller,Tamil
+22,Doctor,Comedy Crime,Tamil
+23,PS-2,Historical Drama,Tamil
+24,Vada Chennai,Action Crime Drama,Tamil
+25,Vikram Vedha,Crime Thriller,Tamil
+26,Dangal,Sports Drama,Hindi
+27,Inception,Sci-Fi Thriller,English
+28,Interstellar,Sci-Fi Drama,English
+29,Spider-Man: No Way Home,Action Adventure,English
+30,Sita Ramam,Romance Drama,Telugu
+31,Pushpa,Action Drama,Telugu
+32,Kantara,Drama Thriller,Kannada
+33,The Dark Knight,Action Crime Thriller,English
+34,La La Land,Romance Musical,English
+35,Karnan,Action Drama,Tamil
